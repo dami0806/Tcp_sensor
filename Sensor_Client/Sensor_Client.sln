@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sensor_Client", "Sensor_Client\Sensor_Client.vcxproj", "{D046614B-A404-4FF7-A5F8-EDE431FB932C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D046614B-A404-4FF7-A5F8-EDE431FB932C}.Debug|x64.ActiveCfg = Debug|x64
+		{D046614B-A404-4FF7-A5F8-EDE431FB932C}.Debug|x64.Build.0 = Debug|x64
+		{D046614B-A404-4FF7-A5F8-EDE431FB932C}.Debug|x86.ActiveCfg = Debug|Win32
+		{D046614B-A404-4FF7-A5F8-EDE431FB932C}.Debug|x86.Build.0 = Debug|Win32
+		{D046614B-A404-4FF7-A5F8-EDE431FB932C}.Release|x64.ActiveCfg = Release|x64
+		{D046614B-A404-4FF7-A5F8-EDE431FB932C}.Release|x64.Build.0 = Release|x64
+		{D046614B-A404-4FF7-A5F8-EDE431FB932C}.Release|x86.ActiveCfg = Release|Win32
+		{D046614B-A404-4FF7-A5F8-EDE431FB932C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13B8E937-1123-4FAD-A03D-40B8651A83B3}
+	EndGlobalSection
+EndGlobal

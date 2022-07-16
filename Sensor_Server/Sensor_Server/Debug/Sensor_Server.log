@@ -1,0 +1,6 @@
+﻿  MonitoringServer.c
+C:\Users\dami0\Desktop\MultiThread Thread\Sensor_Server\MonitoringServer.c(92,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dami0\Desktop\MultiThread Thread\Sensor_Server\MonitoringServer.c(62,28): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\dami0\Desktop\MultiThread Thread\Sensor_Server\MonitoringServer.c(101,25): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\dami0\Desktop\MultiThread Thread\Sensor_Server\MonitoringServer.c(51,9): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  Sensor_Server.vcxproj -> C:\Users\dami0\Desktop\MultiThread Thread\Sensor_Server\Debug\Sensor_Server.exe
